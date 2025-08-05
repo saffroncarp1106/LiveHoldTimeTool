@@ -1,6 +1,8 @@
 # LiveHoldTimeTool <br>
 A tool that shows how long a key is held for in ms. <br>
 
+![Example](https://github.com/user-attachments/assets/ffc6529a-0bb6-4520-8334-3fb66a7b050d)
+
 Usage: <br>
 This tool is really just to be used when recording gameplay. The goal was to show holdtimes live, rather than rendering it after gameplay, so used simliarly to a keyoverlay. <br>
 This tool includes a clickper/second counter too. <br>
@@ -13,4 +15,3 @@ It uses global hotkeys, so it does not work on replays. <br>
 How to use: <br>
 Simply chose the keys you want, and click ok. <br>
 Resize how you want. <br>
-
