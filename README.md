@@ -13,5 +13,6 @@ Due to this, it should not be a exact representation or alternative to holdtimea
 It uses global hotkeys, so it does not work on replays. <br>
 <br>
 How to use: <br>
+The exe must be in its own folder, mainly for a settings file to appear. <br>
 Simply chose the keys you want, and click ok. <br>
 Resize how you want. <br>
